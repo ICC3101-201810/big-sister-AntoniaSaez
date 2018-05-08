@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LabPOO
 {
-    class Product
+    public class Product
     {
         private string name;
         private int stock;
